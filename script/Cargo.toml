@@ -5,7 +5,7 @@ name = "sp1_fib-script"
 edition = "2021"
 
 [dependencies]
-sp1-sdk = { git = "https://github.com/succinctlabs/sp1.git" }
+sp1-sdk = { path = "/Users/flyq/workspace/github/sp1/sdk" }
 
 [build-dependencies]
-sp1-helper = { git = "https://github.com/succinctlabs/sp1.git" }
+sp1-helper = { path = "/Users/flyq/workspace/github/sp1/helper" }
