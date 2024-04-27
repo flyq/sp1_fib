@@ -6,6 +6,7 @@ edition = "2021"
 
 [dependencies]
 sp1-sdk = { path = "/Users/flyq/workspace/github/sp1/sdk" }
+serde_json = "1"
 
 [build-dependencies]
 sp1-helper = { path = "/Users/flyq/workspace/github/sp1/helper" }
